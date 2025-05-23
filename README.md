@@ -6,3 +6,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanaoct1990&layout=compact&theme=tokyonight" width="400" />
 </p>
+
+<p>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=keerthanas3131" alt="LeetCode Badges" />
+</p>
