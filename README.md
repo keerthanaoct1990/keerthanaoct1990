@@ -8,5 +8,5 @@
 </p>
 
 <p>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=keerthanas3131" alt="LeetCode Badges" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=keerthanas3131&animated=true" alt="LeetCode Badges" />
 </p>
