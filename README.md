@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Keerthana.
+Welcome to my GitHub profile!
 
-A passionate Data Engineer and Python Developer with experience in web scraping, data pipelines, and backend development.
+I'm a passionate Data Engineer and Python Developer with experience in web scraping, data pipelines, and backend development.
 
 ## 🔧 Tech Stack
 •	Programming Languages: Python, SQL, C++, Shell Scripting <br>
