@@ -32,7 +32,8 @@ I'm a passionate Data Engineer and Python Developer with experience in web scrap
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/keerthana-sasikumar-34bb51172/)
-- 📬 Email: keerthanas3131@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-sasikumar-34bb51172/)
+
+- [![Gmail](https://img.shields.io/badge/Gmail-keerthanas3131@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keerthanas3131@gmail.com)
 
 </p>
